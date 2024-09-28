@@ -1,0 +1,21 @@
+<CreditCard>
+    <SystemOwner>
+        <NameSystem></NameSystem>
+        <TransactionID></TransactionID>
+        <SystemUrl></SystemUrl>
+        <Location></Location>
+    </SystemOwner>
+    <Adress>
+        <Street></Street>
+        <City></City>
+        <Country></Country>
+        <PostalCode></PostalCode>
+        <Phone></Phone>
+        <Email></Email>
+    </Adress>
+    <ClientID></ClientID>
+    <HeadLine></HeadLine>
+    <CardNumber></CardNumber>
+    <ExpirationDate></ExpirationDate>
+    <CVV></CVV>
+</CreditCard>
